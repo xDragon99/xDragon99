@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, C+**
 
-- 👯 I’m looking to collaborate on **Minecraft Server**
+- 👯 I’m looking to develop **Minecraft Servers**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Minecraft Server**
 
-- 📫 How to reach me **dragon.prywatny@gmail.com**
-
-- ⚡ Fun fact **I have 6+ years of experience.**
+- 📫 Contact on discord **x_dragon_x9**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
