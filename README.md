@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, C+**
 
-- 👯 I’m looking to develop **Minecraft Servers**
-
-- 💬 Ask me about **Minecraft Server**
-
 - 📫 Contact on discord **x_dragon_x9**
 
 <h3 align="left">Connect with me:</h3>
