@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, C+**
 
-- 📫 Contact on discord **x_dragon_x9**
+- 📫 Contact me on discord **x_dragon_x0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
