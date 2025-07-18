@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Dragon</h1>
-<h3 align="center">An advanced Minecraft developer</h3>
+<h3 align="center">Advanced Minecraft developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragonx99&label=Profile%20views&color=0e75b6&style=flat" alt="xdragonx99" /> </p>
 
